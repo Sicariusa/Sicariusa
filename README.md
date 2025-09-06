@@ -1,21 +1,21 @@
-# 🟣 Abdullah Mohamed | ⚡ Software Engineer from the Future  
+# 🟣 Abdullah Mohamed | Software Engineer  
 
-![Cyberpunk Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=220&section=header&text=Abdullah%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=220&section=header&text=Abdullah%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=⚡+Building+Futuristic+Apps;🤖+AI+%26+Data+Science+Explorer;🌍+Cloud-Native+%26+Microservices;🎮+Game+Dev+%26+VR+Hobbyist;🚀+Future-Ready+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+%26+Cloud+Explorer;Data+%26+Machine+Learning;Game+%26+VR+Hobbyist;Future-Ready+Engineer" alt="Typing Animation" />
 </p>
 
-💡 *Turning raw ideas into neon-coded reality. Focused on AI, real-time systems, and next-gen design.*  
+🚀 *Turning raw ideas into neon-coded reality. Focused on AI, real-time systems, and next-gen design.*  
 
 ---
 
 ## 🌌 About Me  
 
-- 👨‍💻 Software Engineering Student with a love for **AI & cloud-native development**  
-- ⚡ Building **real-time apps, microservices, and futuristic UI/UX**  
-- 🎶 Exploring **music-tech, game dev, and SaaS entrepreneurship**  
-- 🕶️ Inspired by **Cyberpunk aesthetics & futuristic systems**  
+- 👨‍💻 Software Engineering Student passionate about **AI & cloud-native systems**  
+- ⚡ Skilled in **real-time apps, microservices, and futuristic UI/UX**  
+- 🎶 Exploring **music-tech, game dev, and SaaS**  
+- 🕶️ Inspired by **cyberpunk aesthetics & future-ready systems**  
 
 ---
 
@@ -24,7 +24,7 @@
 | 💎 Project | 📖 Description | 🔮 Tech |
 |------------|---------------|---------|
 | 🚗 **Carpooling Website** | Real-time ride-sharing with **Kafka microservices** | NestJS · Kafka · MongoDB |
-| 🚌 **Bus Tracking App** | Student **live bus tracking** with futuristic UX | React · Mapbox |
+| 🚌 **Bus Tracking App** | Student **live bus tracking** with sleek UX | React · Mapbox |
 | 🏛️ **Gov Mobile App** | Platform for officials, citizens, ads & reports | Flutter · Firebase |
 | ✈️ **Flights Tracker** | OpenSky API + Mapbox real-time visualization | React · Mapbox |
 | 🍳 **El Matbakh** | Cooking & recipe mobile app | Flutter · SharedPrefs |
@@ -36,10 +36,10 @@
 ## 💻 Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,cs,cpp,sql,mysql,postgres,mongodb&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,unity,threejs,tailwind,figma&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,git,github,vercel,railway,postman,linux&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,matlab,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,cs,cpp,sql,mysql,postgres,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,unity,threejs,tailwind,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,git,github,vercel,railway,postman,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,matlab,opencv" />
 </p>  
 
 ---
@@ -57,7 +57,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Neon Mode)  
+## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://github.com/Sicariusa/Sicariusa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -81,4 +81,4 @@
 
 ---
 
-![Cyberpunk Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer)
