@@ -63,9 +63,6 @@
   <a href="https://www.linkedin.com/in/abdullah-mohamed-56a853254/">
     <img src="https://img.shields.io/badge/LinkedIn-FF00FF?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Sicariusa">
-    <img src="https://img.shields.io/badge/GitHub-111111?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
 </p>  
 
 ---
