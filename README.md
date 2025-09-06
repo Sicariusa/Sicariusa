@@ -55,15 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sicariusa&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=FFFFFF&bg_color=0d1117" height="165">
 </p>
 
----
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/Sicariusa/Sicariusa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
