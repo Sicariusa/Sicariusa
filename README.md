@@ -1,32 +1,34 @@
-# 🟣 Abdullah Mohamed | Software Engineer ⚡  
+# 🟣 Abdullah Mohamed | ⚡ Software Engineer from the Future  
 
-![Cyberpunk Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Abdullah%20Mohamed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Cyberpunk Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=220&section=header&text=Abdullah%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=55&descAlign=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Cloud+Explorer;Data+%26+Machine+Learning;Game+%26+VR+Hobbyist;Future-Ready+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=⚡+Building+Futuristic+Apps;🤖+AI+%26+Data+Science+Explorer;🌍+Cloud-Native+%26+Microservices;🎮+Game+Dev+%26+VR+Hobbyist;🚀+Future-Ready+Engineer" alt="Typing Animation" />
 </p>
 
-🚀 *Crafting futuristic apps with AI, real-time systems, and neon-coded design.*  
+💡 *Turning raw ideas into neon-coded reality. Focused on AI, real-time systems, and next-gen design.*  
 
 ---
 
 ## 🌌 About Me  
-- 🧑‍💻 Software Engineering Student focused on **AI & cloud-native systems**  
-- ⚡ Passionate about **real-time apps, microservices, and futuristic UI/UX**  
-- 🎶 Exploring **music-tech, game dev, and SaaS**  
-- 🌍 Believer in **building global-first solutions with local impact**  
+
+- 👨‍💻 Software Engineering Student with a love for **AI & cloud-native development**  
+- ⚡ Building **real-time apps, microservices, and futuristic UI/UX**  
+- 🎶 Exploring **music-tech, game dev, and SaaS entrepreneurship**  
+- 🕶️ Inspired by **Cyberpunk aesthetics & futuristic systems**  
 
 ---
 
-## 🔭 Featured Projects  
+## 🚀 Featured Projects  
 
 | 💎 Project | 📖 Description | 🔮 Tech |
 |------------|---------------|---------|
 | 🚗 **Carpooling Website** | Real-time ride-sharing with **Kafka microservices** | NestJS · Kafka · MongoDB |
-| 🚌 **Bus Tracking App** | Student **live bus tracking** with sleek UX | React · Mapbox |
+| 🚌 **Bus Tracking App** | Student **live bus tracking** with futuristic UX | React · Mapbox |
 | 🏛️ **Gov Mobile App** | Platform for officials, citizens, ads & reports | Flutter · Firebase |
 | ✈️ **Flights Tracker** | OpenSky API + Mapbox real-time visualization | React · Mapbox |
-| 🍳 **El Matbakh** | Cooking & recipe app | Flutter · SharedPrefs |
+| 🍳 **El Matbakh** | Cooking & recipe mobile app | Flutter · SharedPrefs |
+| 📚 **E-Learning Platform** | Deployed on Railway (backend + frontend) | MERN · Railway |
 | 🦀 **Crab Age Predictor** | ML pipeline (PCA, clustering, regression) | Python · Sklearn |
 
 ---
@@ -55,7 +57,7 @@
 
 ---
 
-## 🐍 Cyberpunk Snake  
+## 🐍 Contribution Snake (Neon Mode)  
 
 <p align="center">
   <img src="https://github.com/Sicariusa/Sicariusa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -66,7 +68,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-mohamed/">
+  <a href="https://www.linkedin.com/in/abdullah-mohamed-56a853254/">
     <img src="https://img.shields.io/badge/LinkedIn-FF00FF?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:abdullah@example.com">
@@ -79,4 +81,4 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer)
+![Cyberpunk Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer)
