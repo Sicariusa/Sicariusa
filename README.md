@@ -1,4 +1,4 @@
-# 🟣 Abdullah Mohamed | Software Engineer  
+# 👨‍💻 Abdullah Mohamed | Software Engineer  
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=220&section=header&text=Abdullah%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
