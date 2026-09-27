@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0220"/>
+      <stop offset="1" stop-color="#050010"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.6" stop-color="#ff9ad0"/>
+      <stop offset="1" stop-color="#ff2e88"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff2e88"/>
+      <stop offset="0.5" stop-color="#b44bff"/>
+      <stop offset="1" stop-color="#00f0ff"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00f0ff" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="radarBg">
+      <stop offset="0" stop-color="#00f0ff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="336" rx="24" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1196" height="336" rx="24" fill="none" stroke="url(#border)" stroke-width="2.5" opacity="0.5"/>
+  <rect x="2" y="2" width="1196" height="336" rx="24" fill="none" stroke="url(#border)" stroke-width="3" stroke-dasharray="260 2800" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="0;-3060" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Consolas,'SF Mono',Menlo,monospace">
+    <rect x="60" y="52" width="150" height="32" rx="16" fill="#ff2e88" fill-opacity="0.15" stroke="#ff2e88"/>
+    <circle cx="80" cy="68" r="5" fill="#ff2e88"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+    <text x="94" y="74" font-size="16" fill="#ff9ad0" letter-spacing="2">FLAGSHIP</text>
+  </g>
+
+  <text x="56" y="160" font-family="'Arial Black','Segoe UI Black',sans-serif" font-size="80" font-weight="900" fill="url(#title)">SecureVibe</text>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" fill="#d9d2f5">
+    <text x="60" y="212">A security scanner that doesn't just flag bugs —</text>
+    <text x="60" y="248">it <tspan fill="#00f0ff" font-weight="700">proves</tspan> which ones an attacker can reach.</text>
+  </g>
+
+  <g font-family="Consolas,'SF Mono',Menlo,monospace" font-size="17" fill="#e9e3ff">
+    <rect x="60" y="276" width="140" height="34" rx="8" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="130" y="299" text-anchor="middle">Tree-sitter</text>
+    <rect x="212" y="276" width="170" height="34" rx="8" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="297" y="299" text-anchor="middle">attack graphs</text>
+    <rect x="394" y="276" width="200" height="34" rx="8" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="494" y="299" text-anchor="middle">AI pentest agent</text>
+  </g>
+
+  <g transform="translate(965 170)">
+    <circle r="140" fill="url(#radarBg)"/>
+    <g fill="none" stroke="#00f0ff" stroke-opacity="0.28">
+      <circle r="140"/><circle r="100"/><circle r="60"/><circle r="22"/>
+      <line x1="-140" y1="0" x2="140" y2="0"/><line x1="0" y1="-140" x2="0" y2="140"/>
+    </g>
+    <g>
+      <path d="M0 0 L140 0 A140 140 0 0 0 99 -99 Z" fill="url(#sweep)"/>
+      <line x1="0" y1="0" x2="140" y2="0" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g filter="url(#glow)">
+      <circle cx="78" cy="42" r="6" fill="#ff2e88" opacity="0"><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.6;0.99;1" dur="4s" begin="0.33s" repeatCount="indefinite"/></circle>
+      <circle cx="-54" cy="86" r="5" fill="#ffe45c" opacity="0"><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.6;0.99;1" dur="4s" begin="1.35s" repeatCount="indefinite"/></circle>
+      <circle cx="-96" cy="-30" r="7" fill="#ff2e88" opacity="0"><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.6;0.99;1" dur="4s" begin="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="36" cy="-104" r="5" fill="#ff2e88" opacity="0"><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.6;0.99;1" dur="4s" begin="3.2s" repeatCount="indefinite"/></circle>
+    </g>
+    <circle r="4" fill="#00f0ff" filter="url(#glow)"/>
+  </g>
+</svg>

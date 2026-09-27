@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 320" width="590" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0220"/>
+      <stop offset="1" stop-color="#050010"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#7ff7ff"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00f0ff" stop-opacity="0.5"/>
+    </linearGradient>
+    <clipPath id="screen"><rect x="438" y="62" width="104" height="196" rx="6"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="586" height="316" rx="22" fill="url(#bg)" stroke="#00f0ff" stroke-opacity="0.45" stroke-width="2"/>
+
+  <text x="36" y="72" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="15" letter-spacing="2" fill="#00f0ff">NEW · PYTHON</text>
+  <text x="34" y="128" font-family="'Arial Black','Segoe UI Black',sans-serif" font-size="42" font-weight="900" fill="url(#title)">Mobile QA</text>
+  <text x="34" y="174" font-family="'Arial Black','Segoe UI Black',sans-serif" font-size="42" font-weight="900" fill="url(#title)">Runner</text>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" fill="#d9d2f5">
+    <text x="36" y="222">Drop in an APK. It taps, types,</text>
+    <text x="36" y="250">swipes &amp; reads the screen —</text>
+    <text x="36" y="278"><tspan fill="#00f0ff" font-weight="700">zero humans</tspan> in the loop.</text>
+  </g>
+
+  <rect x="428" y="44" width="124" height="232" rx="18" fill="#12062a" stroke="#b44bff" stroke-width="2.5"/>
+  <rect x="474" y="52" width="32" height="5" rx="2.5" fill="#b44bff" opacity="0.6"/>
+  <g clip-path="url(#screen)">
+    <rect x="438" y="62" width="104" height="196" fill="#07000f"/>
+    <g font-family="Consolas,monospace" font-size="13">
+      <rect x="448" y="80" width="84" height="18" rx="4" fill="#ffffff" fill-opacity="0.1"/>
+      <rect x="448" y="108" width="84" height="18" rx="4" fill="#ffffff" fill-opacity="0.1"/>
+      <rect x="448" y="136" width="84" height="22" rx="11" fill="#ff2e88" fill-opacity="0.8"/>
+      <rect x="448" y="176" width="60" height="8" rx="4" fill="#ffffff" fill-opacity="0.08"/>
+      <rect x="448" y="192" width="74" height="8" rx="4" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="490" y="236" text-anchor="middle" fill="#3dff9a" font-weight="700" opacity="0" filter="url(#glow)">✓ PASS
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.6;0.95;1" dur="3.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+    <circle cx="490" cy="147" r="0" fill="#ffffff" opacity="0.6">
+      <animate attributeName="r" values="0;0;16;0" keyTimes="0;0.35;0.45;1" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.7;0" keyTimes="0;0.35;0.4;0.5" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <g>
+      <rect x="438" y="-30" width="104" height="30" fill="url(#scan)"/>
+      <rect x="438" y="-2" width="104" height="2" fill="#00f0ff" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="translate" values="0 62;0 290" dur="3.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
