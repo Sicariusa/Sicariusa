@@ -55,12 +55,12 @@
 ## 🌀 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sicariusa&show_icons=true&theme=radical&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sicariusa&theme=radical" height="165">
   <img src="https://streak-stats.demolab.com/?user=Sicariusa&theme=radical&hide_border=true&background=0d1117&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sicariusa&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=FFFFFF&bg_color=0d1117" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sicariusa&theme=radical" height="165">
 </p>
 
 ---
