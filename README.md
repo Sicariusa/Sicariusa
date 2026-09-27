@@ -1,1 +1,47 @@
-<p align="center"> <a href="https://abdullahsayed.vercel.app"><img src="./assets/hero.svg" width="100%" alt="Abdullah Mohamed — Software Engineer"/></a> </p> <p align="center"> <a href="https://abdullahsayed.vercel.app"><img src="https://img.shields.io/badge/portfolio-0a0216?style=for-the-badge&logo=vercel&logoColor=ff2e88" /></a> <a href="https://www.linkedin.com/in/abdullah-mohamed-56a853254/"><img src="https://img.shields.io/badge/linkedin-0a0216?style=for-the-badge&logo=linkedin&logoColor=00f0ff" /></a> </p> <br/> <p align="center"> <img src="./assets/stats.svg" width="100%" alt="531 commits · 1.6M lines scanned in 121s · 150+ security rules · 0 false alarms on 48K LOC"/> </p> <br/> <p align="center"> <img src="./assets/securevibe.svg" width="100%" alt="SecureVibe"/> </p> <p align="center"> <a href="https://github.com/Sicariusa/mobile-testing"><img src="./assets/mobile-qa.svg" width="49%" alt="Mobile QA Runner"/></a> <a href="https://github.com/Sicariusa/discord-clone"><img src="./assets/discord-clone.svg" width="49%" alt="Discord Clone"/></a> </p> <p align="center"> <sub> also shipped&nbsp;&nbsp;→&nbsp;&nbsp; <a href="https://github.com/Sicariusa/carpooling-backend">kafka carpooling</a>&nbsp;·&nbsp; <a href="https://github.com/Sicariusa/Flights">live flight radar</a>&nbsp;·&nbsp; <a href="https://earth-threejs-eta.vercel.app">3d earth</a>&nbsp;·&nbsp; <a href="https://www.statements-corp.com">statements corp</a> </sub> </p> <br/> <p align="center"> <img src="https://skillicons.dev/icons?i=ts,py,nestjs,react,nextjs,kafka,redis,postgres,docker,aws,threejs,flutter&perline=12" /> </p> <br/> <p align="center"> <img src="./assets/footer.svg" width="100%" alt="Let's build something loud."/> </p>
+<p align="center">
+  <a href="https://abdullahsayed.vercel.app"><img src="./assets/hero.svg" width="100%" alt="Abdullah Mohamed — Software Engineer"/></a>
+</p>
+
+<p align="center">
+  <a href="https://abdullahsayed.vercel.app"><img src="https://img.shields.io/badge/portfolio-0a0216?style=for-the-badge&logo=vercel&logoColor=ff2e88" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-mohamed-56a853254/"><img src="https://img.shields.io/badge/linkedin-0a0216?style=for-the-badge&logo=linkedin&logoColor=00f0ff" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/stats.svg" width="100%" alt="531 commits · 1.6M lines scanned in 121s · 150+ security rules · 0 false alarms on 48K LOC"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/securevibe.svg" width="100%" alt="SecureVibe"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sicariusa/mobile-testing"><img src="./assets/mobile-qa.svg" width="49%" alt="Mobile QA Runner"/></a>
+  <a href="https://github.com/Sicariusa/discord-clone"><img src="./assets/discord-clone.svg" width="49%" alt="Discord Clone"/></a>
+</p>
+
+<p align="center">
+  <sub>
+    also shipped&nbsp;&nbsp;→&nbsp;&nbsp;
+    <a href="https://github.com/Sicariusa/carpooling-backend">kafka carpooling</a>&nbsp;·&nbsp;
+    <a href="https://github.com/Sicariusa/Flights">live flight radar</a>&nbsp;·&nbsp;
+    <a href="https://earth-threejs-eta.vercel.app">3d earth</a>&nbsp;·&nbsp;
+    <a href="https://www.statements-corp.com">statements corp</a>
+  </sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,nestjs,react,nextjs,kafka,redis,postgres,docker,aws,threejs,flutter&perline=12" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Let's build something loud."/>
+</p>
