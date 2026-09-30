@@ -19,7 +19,6 @@
 
 - 🛡️ Building **SecureVibe** — a static security scanner with **150+ rules** that scanned **1.6M lines in 121s**
 - 🧪 Former **QA & Testing Engineer @ Geidea** — manual + automated testing on a production fintech app
-- 💼 Led the frontend for **[Statements Corp](https://www.statements-corp.com)**, a live financial-services site
 - ⚡ Skilled in **real-time apps, microservices, and futuristic UI/UX**  
 - 🕶️ Inspired by **cyberpunk aesthetics & future-ready systems**  
 
